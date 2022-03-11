@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/news-tap-app/static/css/main.073c9b0a.css",
+    "main.js": "/news-tap-app/static/js/main.82688529.js",
+    "static/js/787.949764ac.chunk.js": "/news-tap-app/static/js/787.949764ac.chunk.js",
+    "static/media/logo.svg": "/news-tap-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/news-tap-app/index.html",
+    "main.073c9b0a.css.map": "/news-tap-app/static/css/main.073c9b0a.css.map",
+    "main.82688529.js.map": "/news-tap-app/static/js/main.82688529.js.map",
+    "787.949764ac.chunk.js.map": "/news-tap-app/static/js/787.949764ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.82688529.js"
+  ]
+}
